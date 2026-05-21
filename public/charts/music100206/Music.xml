@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music100206</dataName>
+  <netOpenName>
+    <id>241204</id>
+    <str>Net241204</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>4001</id>
+    <str>Ver1.40.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <name>
+    <id>100206</id>
+    <str>[星]しゅわスパ大作戦☆</str>
+  </name>
+  <rightsInfoName>
+    <id>58</id>
+    <str>©上海アリス幻樂団</str>
+  </rightsInfoName>
+  <sortName>シユワスハタイサクセン</sortName>
+  <artistName>
+    <id>203</id>
+    <str>SOUND HOLIC feat. Nana Takahashi</str>
+  </artistName>
+  <genreName>
+    <id>107</id>
+    <str>宴会場</str>
+  </genreName>
+  <bpm>140</bpm>
+  <version>24010</version>
+  <AddVersion>
+    <id>21</id>
+    <str>BUDDiES</str>
+  </AddVersion>
+  <movieName>
+    <id>206</id>
+    <str>しゅわスパ大作戦☆</str>
+  </movieName>
+  <cueName>
+    <id>206</id>
+    <str>しゅわスパ大作戦☆</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>24120427</id>
+    <str>241204_02_7：宴譜面10曲《[星]しゅわスパ大作戦☆、[宴]CYCLES、[覚]東京リアルワールド、[蛸]チルノのパーフェクトさんすう教室、[蔵]Glorious Crown、[宴]Garakuta Doll Play、[宴]DETARAME ROCK&amp;ROLL THEORY、[狂]タカハせ！名人マン、[宴]セガサターン起動音[H.][Remix]</str>
+  </eventName>
+  <eventName2>
+    <id>-1</id>
+    <str />
+  </eventName2>
+  <subEventName>
+    <id>-1</id>
+    <str />
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>0</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>100206_00.ma2</path>
+      </file>
+      <level>13</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>19</musicLevelID>
+      <maxNotes>574</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>100206_01.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>100206_02.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>100206_03.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>100206_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>100206_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <utageKanjiName>星</utageKanjiName>
+  <comment>LET'S PARTY!</comment>
+  <utagePlayStyle>0</utagePlayStyle>
+  <fixedOptions>
+    <FixedOption>
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
+    </FixedOption>
+  </fixedOptions>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>

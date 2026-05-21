@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music011299</dataName>
+  <netOpenName>
+    <id>221216</id>
+    <str>Net221216</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>2001</id>
+    <str>Ver1.20.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <name>
+    <id>11299</id>
+    <str>NAGAREBOSHI☆ROCKET</str>
+  </name>
+  <rightsInfoName>
+    <id>0</id>
+    <str />
+  </rightsInfoName>
+  <sortName>NAGAREBOSHIROCKET</sortName>
+  <artistName>
+    <id>691</id>
+    <str>梅干茶漬け</str>
+  </artistName>
+  <genreName>
+    <id>105</id>
+    <str>maimai</str>
+  </genreName>
+  <bpm>216</bpm>
+  <version>22004</version>
+  <AddVersion>
+    <id>17</id>
+    <str>UNiVERSE</str>
+  </AddVersion>
+  <movieName>
+    <id>1299</id>
+    <str>NAGAREBOSHI☆ROCKET</str>
+  </movieName>
+  <cueName>
+    <id>1299</id>
+    <str>NAGAREBOSHI☆ROCKET</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>1</id>
+    <str>無期限常時解放</str>
+  </eventName>
+  <eventName2>
+    <id>0</id>
+    <str>解放なし</str>
+  </eventName2>
+  <subEventName>
+    <id>0</id>
+    <str>解放なし</str>
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>1</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>011299_00.ma2</path>
+      </file>
+      <level>6</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>6</musicLevelID>
+      <maxNotes>200</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011299_01.ma2</path>
+      </file>
+      <level>8</level>
+      <levelDecimal>5</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>9</musicLevelID>
+      <maxNotes>363</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011299_02.ma2</path>
+      </file>
+      <level>12</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>27</id>
+        <str>サファ太</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>17</musicLevelID>
+      <maxNotes>553</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011299_03.ma2</path>
+      </file>
+      <level>14</level>
+      <levelDecimal>1</levelDecimal>
+      <notesDesigner>
+        <id>80</id>
+        <str>SHICHIMI☆CAT</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>21</musicLevelID>
+      <maxNotes>821</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011299_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011299_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <utageKanjiName />
+  <comment />
+  <utagePlayStyle>0</utagePlayStyle>
+  <fixedOptions>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+  </fixedOptions>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>

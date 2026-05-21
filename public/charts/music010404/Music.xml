@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music010404</dataName>
+  <netOpenName>
+    <id>231102</id>
+    <str>Net231102</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>3001</id>
+    <str>Ver1.30.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <name>
+    <id>10404</id>
+    <str>響縁</str>
+  </name>
+  <rightsInfoName>
+    <id>58</id>
+    <str>©上海アリス幻樂団</str>
+  </rightsInfoName>
+  <sortName>キヨウエン</sortName>
+  <artistName>
+    <id>403</id>
+    <str>豚乙女</str>
+  </artistName>
+  <genreName>
+    <id>103</id>
+    <str>東方Project</str>
+  </genreName>
+  <bpm>180</bpm>
+  <version>23004</version>
+  <AddVersion>
+    <id>19</id>
+    <str>FESTiVAL</str>
+  </AddVersion>
+  <movieName>
+    <id>404</id>
+    <str>響縁</str>
+  </movieName>
+  <cueName>
+    <id>404</id>
+    <str>響縁</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>1</id>
+    <str>無期限常時解放</str>
+  </eventName>
+  <eventName2>
+    <id>0</id>
+    <str>解放なし</str>
+  </eventName2>
+  <subEventName>
+    <id>0</id>
+    <str>解放なし</str>
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>1</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>010404_00.ma2</path>
+      </file>
+      <level>2</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str>-</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>2</musicLevelID>
+      <maxNotes>118</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>010404_01.ma2</path>
+      </file>
+      <level>7</level>
+      <levelDecimal>2</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str>-</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>7</musicLevelID>
+      <maxNotes>302</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>010404_02.ma2</path>
+      </file>
+      <level>10</level>
+      <levelDecimal>5</levelDecimal>
+      <notesDesigner>
+        <id>31</id>
+        <str>じゃこレモン</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>13</musicLevelID>
+      <maxNotes>519</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>010404_03.ma2</path>
+      </file>
+      <level>13</level>
+      <levelDecimal>4</levelDecimal>
+      <notesDesigner>
+        <id>4</id>
+        <str>Jack</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>19</musicLevelID>
+      <maxNotes>707</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>010404_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>010404_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <utageKanjiName />
+  <comment />
+  <utagePlayStyle>0</utagePlayStyle>
+  <fixedOptions>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+  </fixedOptions>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music011844</dataName>
+  <netOpenName>
+    <id>250601</id>
+    <str>Net250601</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>5501</id>
+    <str>Ver1.55.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <longMusic>0</longMusic>
+  <name>
+    <id>11844</id>
+    <str>モエチャッカファイア</str>
+  </name>
+  <rightsInfoName>
+    <id>257</id>
+    <str>Licensed by VAP INC． ©VAP INC. animation: ハツミノ</str>
+  </rightsInfoName>
+  <sortName>モエチヤツカフアイア</sortName>
+  <artistName>
+    <id>1049</id>
+    <str>弌誠「ゲーム『ゼンレスゾーンゼロ』エレン・ジョー 同人イメージソング」</str>
+  </artistName>
+  <genreName>
+    <id>101</id>
+    <str>POPSアニメ</str>
+  </genreName>
+  <bpm>163</bpm>
+  <version>25501</version>
+  <AddVersion>
+    <id>23</id>
+    <str>PRiSM</str>
+  </AddVersion>
+  <movieName>
+    <id>1844</id>
+    <str>モエチャッカファイア</str>
+  </movieName>
+  <cueName>
+    <id>1844</id>
+    <str>モエチャッカファイア</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>25060111</id>
+    <str>250601_01_1：ロンチ楽曲紹介（Mai2Link资源下发）</str>
+  </eventName>
+  <eventName2>
+    <id>25060111</id>
+    <str>250601_01_1：ロンチ楽曲紹介（Mai2Link资源下发）</str>
+  </eventName2>
+  <subEventName>
+    <id>25060111</id>
+    <str>250601_01_1：ロンチ楽曲紹介（Mai2Link资源下发）</str>
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>0</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>011844_00.ma2</path>
+      </file>
+      <level>3</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>3</musicLevelID>
+      <maxNotes>198</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011844_01.ma2</path>
+      </file>
+      <level>6</level>
+      <levelDecimal>7</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>6</musicLevelID>
+      <maxNotes>332</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011844_02.ma2</path>
+      </file>
+      <level>10</level>
+      <levelDecimal>5</levelDecimal>
+      <notesDesigner>
+        <id>128</id>
+        <str>Luxizhel</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>13</musicLevelID>
+      <maxNotes>525</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011844_03.ma2</path>
+      </file>
+      <level>13</level>
+      <levelDecimal>8</levelDecimal>
+      <notesDesigner>
+        <id>27</id>
+        <str>サファ太</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>20</musicLevelID>
+      <maxNotes>984</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011844_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011844_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <utageKanjiName />
+  <comment />
+  <utagePlayStyle>0</utagePlayStyle>
+  <fixedOptions>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+  </fixedOptions>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>

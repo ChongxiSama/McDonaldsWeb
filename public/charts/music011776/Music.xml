@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music011776</dataName>
+  <netOpenName>
+    <id>260210</id>
+    <str>Net260210</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>5001</id>
+    <str>Ver1.50.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <name>
+    <id>11776</id>
+    <str>ゆけむり魂温泉 II</str>
+  </name>
+  <rightsInfoName>
+    <id>58</id>
+    <str>©上海アリス幻樂団</str>
+  </rightsInfoName>
+  <sortName>ユケムリタマオンセン2</sortName>
+  <artistName>
+    <id>363</id>
+    <str>魂音泉</str>
+  </artistName>
+  <genreName>
+    <id>103</id>
+    <str>東方Project</str>
+  </genreName>
+  <bpm>140</bpm>
+  <version>25008</version>
+  <AddVersion>
+    <id>23</id>
+    <str>PRiSM</str>
+  </AddVersion>
+  <movieName>
+    <id>1776</id>
+    <str>ゆけむり魂温泉 II</str>
+  </movieName>
+  <cueName>
+    <id>1776</id>
+    <str>ゆけむり魂温泉 II</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>26021021</id>
+    <str>260210_02_1：通常楽曲（6曲）《人マニア、イガク、演劇、ゆけむり魂温泉 II、人間が大好きなこわれた妖怪の唄、無間嫉妬劇場『666』》</str>
+  </eventName>
+  <eventName2>
+    <id>0</id>
+    <str>解放なし</str>
+  </eventName2>
+  <subEventName>
+    <id>0</id>
+    <str>解放なし</str>
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>1</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>011776_00.ma2</path>
+      </file>
+      <level>4</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>4</musicLevelID>
+      <maxNotes>217</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011776_01.ma2</path>
+      </file>
+      <level>6</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>6</musicLevelID>
+      <maxNotes>318</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011776_02.ma2</path>
+      </file>
+      <level>10</level>
+      <levelDecimal>2</levelDecimal>
+      <notesDesigner>
+        <id>128</id>
+        <str>Luxizhel</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>13</musicLevelID>
+      <maxNotes>491</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011776_03.ma2</path>
+      </file>
+      <level>13</level>
+      <levelDecimal>7</levelDecimal>
+      <notesDesigner>
+        <id>49</id>
+        <str>7.3Hz＋Jack</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>20</musicLevelID>
+      <maxNotes>905</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011776_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011776_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <utageKanjiName />
+  <comment />
+  <utagePlayStyle>0</utagePlayStyle>
+  <fixedOptions>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+  </fixedOptions>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>

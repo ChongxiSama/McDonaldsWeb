@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music011252</dataName>
+  <netOpenName>
+    <id>250601</id>
+    <str>Net250601</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>1501</id>
+    <str>Ver1.15.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <name>
+    <id>11252</id>
+    <str>God knows...</str>
+  </name>
+  <rightsInfoName>
+    <id>120</id>
+    <str>©2006 谷川 流・いとうのいぢ／SOS団</str>
+  </rightsInfoName>
+  <sortName>GODKNOWS</sortName>
+  <artistName>
+    <id>663</id>
+    <str>涼宮ハルヒ（CV.平野 綾） TVアニメ「涼宮ハルヒの憂鬱」</str>
+  </artistName>
+  <genreName>
+    <id>101</id>
+    <str>POPSアニメ</str>
+  </genreName>
+  <bpm>150</bpm>
+  <version>21500</version>
+  <AddVersion>
+    <id>15</id>
+    <str>Splash</str>
+  </AddVersion>
+  <movieName>
+    <id>1252</id>
+    <str>God knows...</str>
+  </movieName>
+  <cueName>
+    <id>1252</id>
+    <str>God knows...</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>25060111</id>
+    <str>250601_01_1：ロンチ楽曲紹介（Mai2Link资源下发）</str>
+  </eventName>
+  <eventName2>
+    <id>25060111</id>
+    <str>250601_01_1：ロンチ楽曲紹介（Mai2Link资源下发）</str>
+  </eventName2>
+  <subEventName>
+    <id>25060111</id>
+    <str>250601_01_1：ロンチ楽曲紹介（Mai2Link资源下发）</str>
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>0</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>011252_00.ma2</path>
+      </file>
+      <level>3</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>3</musicLevelID>
+      <maxNotes>184</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011252_01.ma2</path>
+      </file>
+      <level>6</level>
+      <levelDecimal>8</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>6</musicLevelID>
+      <maxNotes>300</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011252_02.ma2</path>
+      </file>
+      <level>9</level>
+      <levelDecimal>7</levelDecimal>
+      <notesDesigner>
+        <id>32</id>
+        <str>華火職人</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>12</musicLevelID>
+      <maxNotes>486</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011252_03.ma2</path>
+      </file>
+      <level>11</level>
+      <levelDecimal>7</levelDecimal>
+      <notesDesigner>
+        <id>29</id>
+        <str>緑風 犬三郎</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>16</musicLevelID>
+      <maxNotes>719</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011252_04.ma2</path>
+      </file>
+      <level>13</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>24</id>
+        <str>小鳥遊さん</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>19</musicLevelID>
+      <maxNotes>831</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011252_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>

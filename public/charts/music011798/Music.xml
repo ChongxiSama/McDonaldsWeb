@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music011798</dataName>
+  <netOpenName>
+    <id>250601</id>
+    <str>Net250601</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>5001</id>
+    <str>Ver1.50.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <longMusic>0</longMusic>
+  <name>
+    <id>11798</id>
+    <str>お願い！コンコンお稲荷さま</str>
+  </name>
+  <rightsInfoName>
+    <id>222</id>
+    <str>©ばやちゃお</str>
+  </rightsInfoName>
+  <sortName>オネカイコンコンオイナリサマ</sortName>
+  <artistName>
+    <id>1007</id>
+    <str>ARM×狐夢想 feat. ななひら</str>
+  </artistName>
+  <genreName>
+    <id>104</id>
+    <str>ゲームバラエティ</str>
+  </genreName>
+  <bpm>175</bpm>
+  <version>25014</version>
+  <AddVersion>
+    <id>23</id>
+    <str>PRiSM</str>
+  </AddVersion>
+  <movieName>
+    <id>1798</id>
+    <str>お願い！コンコンお稲荷さま</str>
+  </movieName>
+  <cueName>
+    <id>1798</id>
+    <str>お願い！コンコンお稲荷さま</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>25060111</id>
+    <str>250601_01_1：ロンチ楽曲紹介（Mai2Link资源下发）</str>
+  </eventName>
+  <eventName2>
+    <id>25060111</id>
+    <str>250601_01_1：ロンチ楽曲紹介（Mai2Link资源下发）</str>
+  </eventName2>
+  <subEventName>
+    <id>25060111</id>
+    <str>250601_01_1：ロンチ楽曲紹介（Mai2Link资源下发）</str>
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>0</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>011798_00.ma2</path>
+      </file>
+      <level>3</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>3</musicLevelID>
+      <maxNotes>225</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011798_01.ma2</path>
+      </file>
+      <level>7</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>7</musicLevelID>
+      <maxNotes>381</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011798_02.ma2</path>
+      </file>
+      <level>10</level>
+      <levelDecimal>5</levelDecimal>
+      <notesDesigner>
+        <id>6</id>
+        <str>ロシェ@ペンギン</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>13</musicLevelID>
+      <maxNotes>488</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011798_03.ma2</path>
+      </file>
+      <level>13</level>
+      <levelDecimal>2</levelDecimal>
+      <notesDesigner>
+        <id>127</id>
+        <str>鳩ホルダー</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>19</musicLevelID>
+      <maxNotes>830</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011798_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011798_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <utageKanjiName />
+  <comment />
+  <utagePlayStyle>0</utagePlayStyle>
+  <fixedOptions>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+  </fixedOptions>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>

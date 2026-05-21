@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music011343</dataName>
+  <netOpenName>
+    <id>230127</id>
+    <str>Net230127</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>2001</id>
+    <str>Ver1.20.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <name>
+    <id>11343</id>
+    <str>マツヨイナイトバグ</str>
+  </name>
+  <rightsInfoName>
+    <id>134</id>
+    <str>©上海アリス幻樂団  ©アンノウンX / AQUASTYLE・DeNA・xeen  inspiredby 東方Project</str>
+  </rightsInfoName>
+  <sortName>マツヨイナイトハク</sortName>
+  <artistName>
+    <id>748</id>
+    <str>COOL&amp;CREATE feat.ビートまりおとまろん「東方ダンマクカグラ」</str>
+  </artistName>
+  <genreName>
+    <id>103</id>
+    <str>東方Project</str>
+  </genreName>
+  <bpm>190</bpm>
+  <version>22005</version>
+  <AddVersion>
+    <id>17</id>
+    <str>UNiVERSE</str>
+  </AddVersion>
+  <movieName>
+    <id>1343</id>
+    <str>マツヨイナイトバグ</str>
+  </movieName>
+  <cueName>
+    <id>1343</id>
+    <str>マツヨイナイトバグ</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>1</id>
+    <str>無期限常時解放</str>
+  </eventName>
+  <eventName2>
+    <id>0</id>
+    <str>解放なし</str>
+  </eventName2>
+  <subEventName>
+    <id>26021025</id>
+    <str>260210_02_5：Re:MASTER楽曲解禁（2曲）《【DX譜面】幻想に咲いた花、【DX譜面】マツヨイナイトバグ》</str>
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>0</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>011343_00.ma2</path>
+      </file>
+      <level>3</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>3</musicLevelID>
+      <maxNotes>159</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011343_01.ma2</path>
+      </file>
+      <level>7</level>
+      <levelDecimal>8</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>8</musicLevelID>
+      <maxNotes>375</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011343_02.ma2</path>
+      </file>
+      <level>10</level>
+      <levelDecimal>7</levelDecimal>
+      <notesDesigner>
+        <id>2</id>
+        <str>はっぴー</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>14</musicLevelID>
+      <maxNotes>623</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011343_03.ma2</path>
+      </file>
+      <level>13</level>
+      <levelDecimal>9</levelDecimal>
+      <notesDesigner>
+        <id>84</id>
+        <str>翠楼屋</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>20</musicLevelID>
+      <maxNotes>982</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011343_04.ma2</path>
+      </file>
+      <level>14</level>
+      <levelDecimal>3</levelDecimal>
+      <notesDesigner>
+        <id>9</id>
+        <str>ぴちネコ</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>21</musicLevelID>
+      <maxNotes>1127</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011343_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <utageKanjiName />
+  <comment />
+  <utagePlayStyle>0</utagePlayStyle>
+  <fixedOptions>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+  </fixedOptions>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music111359</dataName>
+  <netOpenName>
+    <id>240606</id>
+    <str>Net240606</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>4001</id>
+    <str>Ver1.40.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <name>
+    <id>111359</id>
+    <str>[奏]アカツキアライヴァル</str>
+  </name>
+  <rightsInfoName>
+    <id>3</id>
+    <str>© Crypton Future Media, INC. www.piapro.net (+piapro logo)</str>
+  </rightsInfoName>
+  <sortName>アカツキアライウアル</sortName>
+  <artistName>
+    <id>122</id>
+    <str>Last Note.</str>
+  </artistName>
+  <genreName>
+    <id>107</id>
+    <str>宴会場</str>
+  </genreName>
+  <bpm>125</bpm>
+  <version>24000</version>
+  <AddVersion>
+    <id>21</id>
+    <str>BUDDiES</str>
+  </AddVersion>
+  <movieName>
+    <id>1359</id>
+    <str>アカツキアライヴァル</str>
+  </movieName>
+  <cueName>
+    <id>1359</id>
+    <str>アカツキアライヴァル</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>24060624</id>
+    <str>240606_02_4：宴譜面解禁　8曲《Love You、ポップミュージックは僕のもの、恋愛裁判、ぽっぴっぽー、アカツキアライヴァル、ラグトレイン、疾走あんさんぶる、Hand in Hand》</str>
+  </eventName>
+  <eventName2>
+    <id>-1</id>
+    <str />
+  </eventName2>
+  <subEventName>
+    <id>-1</id>
+    <str />
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>0</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>111359_00.ma2</path>
+      </file>
+      <level>13</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>19</musicLevelID>
+      <maxNotes>1611</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>111359_01.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>111359_02.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>111359_03.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>111359_04.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>111359_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <utageKanjiName>奏</utageKanjiName>
+  <comment>LET'S PARTY!!</comment>
+  <utagePlayStyle>1</utagePlayStyle>
+  <fixedOptions>
+    <FixedOption>
+      <_fixedOptionName>Mirror</_fixedOptionName>
+      <_fixedOptionValue>Normal</_fixedOptionValue>
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName>TrackSkip</_fixedOptionName>
+      <_fixedOptionValue>Off</_fixedOptionValue>
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName>None</_fixedOptionName>
+      <_fixedOptionValue>None</_fixedOptionValue>
+    </FixedOption>
+  </fixedOptions>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>

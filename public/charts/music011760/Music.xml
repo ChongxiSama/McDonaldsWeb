@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music011760</dataName>
+  <netOpenName>
+    <id>251224</id>
+    <str>Net251224</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>5001</id>
+    <str>Ver1.50.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <name>
+    <id>11760</id>
+    <str>勇者</str>
+  </name>
+  <rightsInfoName>
+    <id>209</id>
+    <str>©山田鐘人・アベツカサ／小学館／「葬送のフリーレン」製作委員会 ©2023 by NIPPON TELEVISION MUSIC CORPORATION &amp; Toho Music Corporation &amp; Sony Music Publishing(Japan) Inc. ©Sony Music Entertainment (Japan) Inc.</str>
+  </rightsInfoName>
+  <sortName>ユウシヤ</sortName>
+  <artistName>
+    <id>709</id>
+    <str>YOASOBI</str>
+  </artistName>
+  <genreName>
+    <id>101</id>
+    <str>POPSアニメ</str>
+  </genreName>
+  <bpm>104</bpm>
+  <version>25006</version>
+  <AddVersion>
+    <id>23</id>
+    <str>PRiSM</str>
+  </AddVersion>
+  <movieName>
+    <id>1760</id>
+    <str>勇者</str>
+  </movieName>
+  <cueName>
+    <id>1760</id>
+    <str>勇者</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>25122421</id>
+    <str>251224_02_1：通常楽曲（12曲）《唱、愛包ダンスホール、マツケンサンバⅡ、デビルじゃないもん、リアライズ、ずんだパーリナイ、Ultimate taste、Chronomia、はげしこの夜 -Psylent Crazy Night-、プリズム△▽リズム、美夜月鏡、Cryptarithm》</str>
+  </eventName>
+  <eventName2>
+    <id>0</id>
+    <str>解放なし</str>
+  </eventName2>
+  <subEventName>
+    <id>25122421</id>
+    <str>251224_02_1：通常楽曲（12曲）《唱、愛包ダンスホール、マツケンサンバⅡ、デビルじゃないもん、リアライズ、ずんだパーリナイ、Ultimate taste、Chronomia、はげしこの夜 -Psylent Crazy Night-、プリズム△▽リズム、美夜月鏡、Cryptarithm》</str>
+  </subEventName>
+  <lockType>0</lockType>
+  <subLockType>0</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>011760_00.ma2</path>
+      </file>
+      <level>3</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>3</musicLevelID>
+      <maxNotes>94</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011760_01.ma2</path>
+      </file>
+      <level>6</level>
+      <levelDecimal>5</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>6</musicLevelID>
+      <maxNotes>153</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011760_02.ma2</path>
+      </file>
+      <level>9</level>
+      <levelDecimal>8</levelDecimal>
+      <notesDesigner>
+        <id>151</id>
+        <str>まぐランド</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>12</musicLevelID>
+      <maxNotes>271</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011760_03.ma2</path>
+      </file>
+      <level>11</level>
+      <levelDecimal>7</levelDecimal>
+      <notesDesigner>
+        <id>29</id>
+        <str>緑風 犬三郎</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>16</musicLevelID>
+      <maxNotes>396</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011760_04.ma2</path>
+      </file>
+      <level>13</level>
+      <levelDecimal>2</levelDecimal>
+      <notesDesigner>
+        <id>128</id>
+        <str>Luxizhel</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>19</musicLevelID>
+      <maxNotes>517</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>011760_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <utageKanjiName />
+  <comment />
+  <utagePlayStyle>0</utagePlayStyle>
+  <fixedOptions>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+  </fixedOptions>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>

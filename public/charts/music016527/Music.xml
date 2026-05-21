@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MusicData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <dataName>music016527</dataName>
+  <netOpenName>
+    <id>250601</id>
+    <str>Net250601</str>
+  </netOpenName>
+  <releaseTagName>
+    <id>1</id>
+    <str>Ver1.00.00</str>
+  </releaseTagName>
+  <disable>false</disable>
+  <name>
+    <id>16527</id>
+    <str>乙姫心で恋宮殿</str>
+  </name>
+  <rightsInfoName>
+    <id>0</id>
+    <str />
+  </rightsInfoName>
+  <sortName>乙姫心で恋宮殿</sortName>
+  <artistName>
+    <id>999</id>
+    <str>lily white</str>
+  </artistName>
+  <genreName>
+    <id>601</id>
+    <str>自制谱-25年冬</str>
+  </genreName>
+  <bpm>140</bpm>
+  <version>10000</version>
+  <AddVersion>
+    <id>601</id>
+    <str>自制谱-25年冬</str>
+  </AddVersion>
+  <movieName>
+    <id>6527</id>
+    <str>乙姫心で恋宮殿</str>
+  </movieName>
+  <cueName>
+    <id>6527</id>
+    <str>乙姫心で恋宮殿</str>
+  </cueName>
+  <dresscode>false</dresscode>
+  <eventName>
+    <id>25060127</id>
+    <str>250601_02_7：ロンチ楽曲紹介（Mai2Link自制谱资源下发-2025年冬）</str>
+  </eventName>
+  <eventName2>
+    <id>0</id>
+    <str>解放なし</str>
+  </eventName2>
+  <subEventName>
+    <id>25060127</id>
+    <str>250601_02_7：ロンチ楽曲紹介（Mai2Link自制谱资源下发-2025年冬）</str>
+  </subEventName>
+  <lockType>4</lockType>
+  <subLockType>0</subLockType>
+  <dotNetListView>true</dotNetListView>
+  <notesData>
+    <Notes>
+      <file>
+        <path>016527_00.ma2</path>
+      </file>
+      <level>10</level>
+      <levelDecimal>9</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str>luvlily</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>5</musicLevelID>
+      <maxNotes>265</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>016527_01.ma2</path>
+      </file>
+      <level>10</level>
+      <levelDecimal>9</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str>luvlily</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>9</musicLevelID>
+      <maxNotes>483</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>016527_02.ma2</path>
+      </file>
+      <level>10</level>
+      <levelDecimal>9</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str>luvlily</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>15</musicLevelID>
+      <maxNotes>706</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>016527_03.ma2</path>
+      </file>
+      <level>10</level>
+      <levelDecimal>9</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str>luvlily</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>19</musicLevelID>
+      <maxNotes>874</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>016527_04.ma2</path>
+      </file>
+      <level>10</level>
+      <levelDecimal>9</levelDecimal>
+      <notesDesigner>
+        <id>999</id>
+        <str>luvlily</str>
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>20</musicLevelID>
+      <maxNotes>875</maxNotes>
+      <isEnable>true</isEnable>
+    </Notes>
+    <Notes>
+      <file>
+        <path>000000_05.ma2</path>
+      </file>
+      <level>0</level>
+      <levelDecimal>0</levelDecimal>
+      <notesDesigner>
+        <id>0</id>
+        <str />
+      </notesDesigner>
+      <notesType>0</notesType>
+      <musicLevelID>0</musicLevelID>
+      <maxNotes>0</maxNotes>
+      <isEnable>false</isEnable>
+    </Notes>
+  </notesData>
+  <utageKanjiName />
+  <comment />
+  <utagePlayStyle>0</utagePlayStyle>
+  <fixedOptions>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+    <FixedOption>
+      <_fixedOptionName />
+      <_fixedOptionValue />
+    </FixedOption>
+  </fixedOptions>
+  <jacketFile />
+  <thumbnailName />
+  <rightFile />
+  <priority>0</priority>
+</MusicData>

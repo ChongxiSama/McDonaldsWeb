@@ -1,0 +1,13 @@
+{
+  "name": "Mai2Link",
+  "short_name": "Mai2Link",
+  "description": "Mai2Link",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F4F5F7",
+  "theme_color": "#FF502E",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "/mai2link-logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
