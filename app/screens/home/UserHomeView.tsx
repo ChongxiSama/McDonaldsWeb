@@ -5,7 +5,7 @@ import Link from "next/link";
 import { Switch } from "@/components/ui/switch";
 import { QRCodeSVG } from "qrcode.react";
 import { Select, ListBox } from "@heroui/react";
-import { Activity, Globe, Eye, EyeOff, Music, Settings as SettingsIcon, Monitor, QrCode, User } from "lucide-react";
+import { Activity, Globe, Eye, EyeOff, Music, Settings as SettingsIcon, Monitor, QrCode, User, Download } from "lucide-react";
 import ThemeToggle from "@/components/ThemeToggle";
 
 const styleRelative = { position: "relative" as const };
@@ -103,6 +103,7 @@ export default function UserHomeView({
   const [remoteCidName, setRemoteCidName] = useState("");
   const [remoteMsg, setRemoteMsg] = useState("");
   const [remoteOk, setRemoteOk] = useState(false);
+  const [show155, setShow155] = useState(false);
 
   const closeQr = () => { setQrClosing(true); setTimeout(() => { setQrOpen(false); setQrClosing(false); }, 200); };
 
@@ -206,7 +207,26 @@ export default function UserHomeView({
             )}
           </div>
 
-          <div className="card">
+          <div className="card overflow-hidden">
+            <button
+              onClick={() => setShow155(true)}
+              className="w-full flex items-center gap-2 px-4 py-3 mb-4 rounded-xl border border-orange-300 dark:border-orange-700 bg-orange-100/60 dark:bg-orange-900/40 text-orange-600 dark:text-orange-300 font-bold text-xs hover:bg-orange-200/60 dark:hover:bg-orange-800/40 transition-colors cursor-pointer"
+            >
+              <Download size={16} />
+              点击下载1.55
+            </button>
+
+            {show155 && (
+              <div
+                className="fixed inset-0 z-[2000] flex items-center justify-center bg-black/60 backdrop-blur-sm"
+                onClick={() => setShow155(false)}
+              >
+                <div className="max-w-[90vw] max-h-[90vh]" onClick={(e) => e.stopPropagation()}>
+                  <video src="/download155.mp4" autoPlay controls loop className="max-w-full max-h-[85vh] rounded-2xl shadow-2xl" />
+                </div>
+              </div>
+            )}
+
             <div className="card-header">
               <div className="card-title">
                 <Globe size={16} />
