@@ -2788,6 +2788,16 @@ textarea.mai-input {
   color: #fff;
 }
 
+.m2l-ctl-root .ctl-modal-btn.confirm.orange {
+  background: var(--c-orange);
+  color: #fff;
+}
+
+.m2l-ctl-root .ctl-modal-btn.sideload {
+  background: var(--c-black);
+  color: #fff;
+}
+
 .m2l-ctl-root .no-select {
   user-select: none;
   -webkit-user-select: none;

@@ -58,7 +58,7 @@ type CtlModalType = "none" | "volume" | "noteSize" | "gameMsg" | "sideloadCoin" 
 
 const FALLBACK_ORDER_NAMES = ["MSDATA", "SDGB150", "SDEZ165", "SDEZ160", "SDGB140", "SDGB130", "MajdataPlay", "Tools"];
 
-const SIDELOAD_VERSIONS = ["SDGB150", "SDGB140", "SDGB130", "SDEZ165", "SDEZ160", "MajdataPlay", "SDGB155"];
+const SIDELOAD_VERSIONS = ["Main", "SDGB150", "SDGB140", "SDGB130", "SDEZ165", "SDEZ160", "MajdataPlay"];
 
 const parsePctText = (num: number) => `${Number.isFinite(num) ? num.toFixed(1) : "0.0"}%`;
 
@@ -852,7 +852,7 @@ export default function CtlScr({ ssrHealth, ssrConfigs }: { ssrHealth?: Record<s
                   <div className="ctl-modal-title">选择侧载版本</div>
                   <div className="grid grid-cols-2 gap-1.5 mt-2">
                     {SIDELOAD_VERSIONS.map((v) => (
-                      <button key={v} onClick={async () => { closeCtlModal(); await runCtl("set-sideload", v); setNotice("侧载版本已切换，如需重启请在面板操作"); }} className="ctl-modal-btn confirm w-full">{v}</button>
+                      <button key={v} onClick={async () => { closeCtlModal(); await runCtl("set-sideload", v); setNotice("侧载版本已切换，如需重启请在面板操作"); }} className="ctl-modal-btn sideload w-full">{v}</button>
                     ))}
                   </div>
                 </>
@@ -904,7 +904,7 @@ export default function CtlScr({ ssrHealth, ssrConfigs }: { ssrHealth?: Record<s
               ) : null}
               <div className="ctl-modal-actions">
                 <button type="button" className="ctl-modal-btn cancel" onClick={closeCtlModal} disabled={busy}>取消</button>
-                <button type="button" className="ctl-modal-btn confirm" onClick={handleModalConfirm} disabled={busy}>
+                <button type="button" className="ctl-modal-btn confirm orange" onClick={handleModalConfirm} disabled={busy}>
                   {busy ? "处理中..." : "确认"}
                 </button>
               </div>
