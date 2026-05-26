@@ -54,7 +54,7 @@ import {
 } from "../lib/mai2link-api";
 
 type AuthState = { token: string; isMachine: boolean } | null;
-type CtlModalType = "none" | "volume" | "noteSize" | "gameMsg" | "sideloadCoin" | "hosts" | "sideload" | "rateLimit" | "easterEgg" | "orderBlacklist" | "orderRemoveList" | "judgeMode";
+type CtlModalType = "none" | "volume" | "noteSize" | "gameMsg" | "sideloadCoin" | "hosts" | "sideload" | "rateLimit" | "easterEgg" | "orderBlacklist" | "orderRemoveList" | "judgeMode" | "credit";
 
 const FALLBACK_ORDER_NAMES = ["MSDATA", "SDGB150", "SDEZ165", "SDEZ160", "SDGB140", "SDGB130", "MajdataPlay", "Tools"];
 
@@ -119,6 +119,7 @@ export default function CtlScr({ ssrHealth, ssrConfigs }: { ssrHealth?: Record<s
   const [msgTypeDraft, setMsgTypeDraft] = useState<"1" | "2" | "3">("1");
   const [msgBodyDraft, setMsgBodyDraft] = useState("");
   const [sideloadCoinDraft, setSideloadCoinDraft] = useState(0);
+  const [creditDraft, setCreditDraft] = useState(1);
   const [hostsDraft, setHostsDraft] = useState("");
   const [easterCode, setEasterCode] = useState("");
   const restartAlert = useOverlayState();
@@ -250,7 +251,7 @@ export default function CtlScr({ ssrHealth, ssrConfigs }: { ssrHealth?: Record<s
       "发送游戏弹窗": () => modal("gameMsg", () => { setMsgTypeDraft("1"); setMsgBodyDraft(""); }),
       "修改音符大小": () => modal("noteSize", () => setNoteSizeDraft("100%")),
       "侧载模式": () => modal("sideload"),
-      "侧载投币数设置": () => modal("sideloadCoin", () => setSideloadCoinDraft(0)),
+      "侧载投币数设置": () => modal("sideloadCoin", () => setSideloadCoinDraft(5)),
       "自定义主显示器位置": () => runCtl("set-primary-monitor", getCfg("set-primary-monitor") ? "0" : "1"),
       "切换启动页面样式": () => runCtl("set-screen-night"),
       "Hosts文件编辑": async () => {
@@ -292,8 +293,8 @@ export default function CtlScr({ ssrHealth, ssrConfigs }: { ssrHealth?: Record<s
     if (pressTimerRef.current) window.clearTimeout(pressTimerRef.current);
     pressTimerRef.current = window.setTimeout(() => {
       isLongPressRef.current = true;
-      setSideloadCoinDraft(5);
-      setCtlModal("sideloadCoin");
+      setCreditDraft(5);
+      setCtlModal("credit");
     }, 600);
   };
 
@@ -356,6 +357,7 @@ export default function CtlScr({ ssrHealth, ssrConfigs }: { ssrHealth?: Record<s
       case "noteSize": confirmNoteSize(); break;
       case "gameMsg": confirmGameMsg(); break;
       case "sideloadCoin": confirmSideloadCoin(); break;
+      case "credit": confirmCredit(); break;
       case "hosts": confirmHosts(); break;
       case "orderBlacklist": runCtl("set-order-blacklist", orderBlacklistDraft); closeCtlModal(); break;
       case "orderRemoveList": runCtl("set-order-remove-list", orderRemoveDraft); closeCtlModal(); break;
@@ -397,6 +399,11 @@ export default function CtlScr({ ssrHealth, ssrConfigs }: { ssrHealth?: Record<s
 
   const confirmSideloadCoin = async () => {
     await runCtl("set-sideload-coin", String(sideloadCoinDraft));
+    closeCtlModal();
+  };
+
+  const confirmCredit = async () => {
+    await runCtl("set-credit", String(creditDraft));
     closeCtlModal();
   };
 
@@ -834,11 +841,18 @@ export default function CtlScr({ ssrHealth, ssrConfigs }: { ssrHealth?: Record<s
                   />
                 </>
               ) : null}
+              {ctlModal === "credit" ? (
+                <>
+                  <div className="ctl-modal-title">增减Credits数</div>
+                  <div className="ctl-modal-value">{creditDraft}</div>
+                  <Slider value={[creditDraft]} onValueChange={(v) => setCreditDraft(Array.isArray(v) ? v[0] : v)} min={-5} max={5} step={1} />
+                </>
+              ) : null}
               {ctlModal === "sideloadCoin" ? (
                 <>
-                  <div className="ctl-modal-title">远程投币</div>
+                  <div className="ctl-modal-title">侧载投币数设置</div>
                   <div className="ctl-modal-value">{sideloadCoinDraft}</div>
-                  <Slider value={[sideloadCoinDraft]} onValueChange={(v) => setSideloadCoinDraft(Array.isArray(v) ? v[0] : v)} min={-5} max={5} step={1} />
+                  <Slider value={[sideloadCoinDraft]} onValueChange={(v) => setSideloadCoinDraft(Array.isArray(v) ? v[0] : v)} min={1} max={50} step={1} />
                 </>
               ) : null}
               {ctlModal === "hosts" ? (
